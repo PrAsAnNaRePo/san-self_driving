@@ -18,8 +18,7 @@ unfortunatly i can't upload pretrained model here :(
 but i have uploaded the train.py which is i used to train
 
 
-
-
+model link -> models/Xception-san-auto.json
 
 
 
